@@ -1,0 +1,107 @@
+{
+  "version": "0.0.1",
+  
+  "body_part": {
+    
+    "chest": {
+      "start_day": "Monday",
+      "workouts": [
+        {
+          "name": "Bench press",
+          "sets": [
+            {
+              "reps": 15,
+              "weight": "15 kg"
+            },
+             {
+              "reps": 12,
+              "weight": "20 kg"
+            },
+             {
+              "reps": 10,
+              "weight": "25 kg"
+            }
+            
+            ]
+        },
+        
+        {
+          "name": "Incline Bench press",
+          "sets": [
+            {
+              "reps": 12,
+              "weight": "15 kg"
+            },
+             {
+              "reps": 10,
+              "weight": "20 kg"
+            },
+             {
+              "reps": 10,
+              "weight": "25 kg"
+            }
+            
+            ]
+        },
+        
+        {
+          "name": "Flyes",
+          "sets": [
+            {
+              "reps": 15,
+              "weight": "10 kg"
+            },
+             {
+              "reps": 12,
+              "weight": "12.5 kg"
+            },
+             {
+              "reps": 10,
+              "weight": "12.5 kg"
+            }
+            
+            ]
+        },
+        
+        {
+          "name": "Decline Bench press",
+          "sets": [
+            {
+              "reps": 15,
+              "weight": "15 kg"
+            },
+             {
+              "reps": 12,
+              "weight": "20 kg"
+            },
+             {
+              "reps": 10,
+              "weight": "25 kg"
+            }
+            
+            ]
+        }
+        
+        ]
+      
+    },
+    
+    "back": {
+      
+    },
+    
+    "shoulder": {
+      
+    },
+    
+    "legs": {
+      
+    },
+    
+    "arms": {
+      
+    }
+    
+    
+  }
+}
